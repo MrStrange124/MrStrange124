@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya</h1>
 <h3 align="center">A passionate  Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [EasyMed](https://project-1-2q7alo32c-mrstrange124.vercel.app/)
+- 🔭 I’m currently working on [EasyMed](https://easy-med.vercel.app/Home)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
